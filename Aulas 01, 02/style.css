@@ -112,3 +112,7 @@ img:hover{
     padding: 20px;
     border-radius: 8px;
 }
+
+.ul-projetos li::before{
+    content: none; 
+}
