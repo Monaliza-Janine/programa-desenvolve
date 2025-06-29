@@ -1,0 +1,7 @@
+Deploy
+
+Surge
+
+Node e NPM - instalar
+
+surge teardown nomedosite  --> remove o site
